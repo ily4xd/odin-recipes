@@ -1,3 +1,1 @@
-c
-
-[A[A[A[B
+This project is my first attempt at creating a prototype of a very primitive website. It contains recipes featured in Thai cuisine I had the luxury of tasting myself. Enjoy!
